@@ -1,0 +1,56 @@
+baseURL = "https://kgipj.github.io/kgipj/"
+languageCode = "zh-tw"
+title = "Navi's Notes"
+theme = "archie"
+copyright = "Navi © CC BY-NC-SA 4.0"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  mode = "auto"
+  useCDN = false
+  subtitle = "A Blog about Notes, Life, and Experiments"
+  mainSections = ["posts"]
+
+[outputFormats]
+  [outputFormats.JSON]
+    mediaType = "application/json"
+    baseName = "index"
+    isPlainText = true
+    notAlternative = true
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    codeFences = true
+    guessSyntax = true
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 2
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5

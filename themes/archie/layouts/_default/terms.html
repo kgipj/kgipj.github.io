@@ -1,0 +1,31 @@
+{{ define "main" }}
+<h1 class="page-title">All tags</h1>
+
+{{ $max := 1.6 }}
+{{ $min := 1.0 }}
+{{ $biggest := 1 }}
+{{ $smallest := 9999 }}
+{{ range .Data.Terms }}
+  {{ if gt .Count $biggest }}{{ $biggest = .Count }}{{ end }}
+  {{ if lt .Count $smallest }}{{ $smallest = .Count }}{{ end }}
+{{ end }}
+
+{{ $data := .Data }}
+<div class="tag-cloud">
+  <ul class="tags">
+    {{ range .Data.Terms.ByCount }}
+    {{ $size := $min }}
+    {{ if ne $biggest $smallest }}
+      {{ $size = add $min (mul (math.Div (sub .Count $smallest) (sub $biggest $smallest)) (sub $max $min)) }}
+    {{ end }}
+    <li>
+      <a
+        style="font-size: {{ printf "%.2f" $size }}rem;"
+        href="{{ $.Site.LanguagePrefix | absURL }}{{ $data.Plural }}/{{ .Name | urlize }}/"
+        >{{ .Name }} ({{ .Count }})</a
+      >
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

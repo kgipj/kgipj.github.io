@@ -1,4 +1,4 @@
-baseURL = "https://kgipj.github.io/kgipj/"
+baseURL = "https://kgipj.github.io/"
 languageCode = "zh-tw"
 title = "Navi's Notes"
 theme = "archie"

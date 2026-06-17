@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title">
+  <title>Navi's Notes cat icon</title>
+  <defs>
+    <linearGradient id="bg" x1="24" y1="18" x2="158" y2="166" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="0.55" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#4338ca"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="42" fill="url(#bg)"/>
+  <path d="M50 78 58 42l27 24h10l27-24 8 36c14 11 22 27 22 45 0 34-28 55-62 55s-62-21-62-55c0-18 8-34 22-45z" fill="#f8fafc"/>
+  <path d="M58 64 63 46l15 16c-8 0-14 1-20 2zm64 0 15-18 5 20c-6-3-13-4-20-2z" fill="#bfdbfe"/>
+  <circle cx="68" cy="110" r="8" fill="#172554"/>
+  <circle cx="112" cy="110" r="8" fill="#172554"/>
+  <path d="M84 124c4 4 8 6 12 0" fill="none" stroke="#172554" stroke-width="7" stroke-linecap="round"/>
+  <path d="M90 118 83 113h14l-7 5z" fill="#2563eb"/>
+  <path d="M47 121H23m28 13H28m105-13h24m-28 13h23" stroke="#dbeafe" stroke-width="5" stroke-linecap="round"/>
+  <path d="M69 93c-5-4-12-4-18 0m78 0c-6-4-13-4-18 0" stroke="#60a5fa" stroke-width="5" stroke-linecap="round"/>
+</svg>

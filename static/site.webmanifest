@@ -3,7 +3,7 @@
   "short_name": "Notes",
   "icons": [
     {
-      "src": "./apple-touch-icon.png",
+      "src": "./apple-touch-bear.png",
       "sizes": "180x180",
       "type": "image/png"
     }

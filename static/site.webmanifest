@@ -6,11 +6,6 @@
       "src": "./apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
-    },
-    {
-      "src": "./icons/cat.svg",
-      "sizes": "180x180",
-      "type": "image/svg+xml"
     }
   ],
   "theme_color": "#2563eb",

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>學習 on Navi's Notes</title><link>https://kgipj.github.io/tags/%E5%AD%B8%E7%BF%92/</link><description>Recent content in 學習 on Navi's Notes</description><generator>Hugo</generator><language>zh-tw</language><copyright>Navi © CC BY-NC-SA 4.0</copyright><lastBuildDate>Wed, 06 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://kgipj.github.io/tags/%E5%AD%B8%E7%BF%92/index.xml" rel="self" type="application/rss+xml"/><item><title>我的第一篇文章</title><link>https://kgipj.github.io/posts/my-first-post/</link><pubDate>Wed, 06 May 2026 00:00:00 +0800</pubDate><guid>https://kgipj.github.io/posts/my-first-post/</guid><description>&lt;p>這是我的第一篇文章。先不用寫得很完美，只要把一個想法放上來，這個網站就開始活起來了。&lt;/p>
+&lt;p>我想用這裡紀錄學到的東西、做過的小作品，以及偶爾冒出來的想法。文章可以很短，也可以慢慢補長。&lt;/p>
+&lt;h2 id="今天先做什麼">今天先做什麼&lt;/h2>
+&lt;p>先把第一篇文章寫完，然後回到首頁確認連結可以打開。之後每次要新增文章，就用 Markdown 寫在 &lt;code>content/posts/&lt;/code> 裡。&lt;/p>
+&lt;blockquote>
+&lt;p>先有一個可以持續使用的地方，比一開始就完美更重要。&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="下一篇可以寫">下一篇可以寫&lt;/h2>
+&lt;ul>
+&lt;li>最近學到的一件事&lt;/li>
+&lt;li>一個想整理的筆記&lt;/li>
+&lt;li>正在做的小作品&lt;/li>
+&lt;/ul></description></item><item><title>讀書筆記：把想法整理成文章</title><link>https://kgipj.github.io/posts/turning-thoughts-into-notes/</link><pubDate>Mon, 20 Apr 2026 00:00:00 +0800</pubDate><guid>https://kgipj.github.io/posts/turning-thoughts-into-notes/</guid><description>&lt;p>很多想法剛出現時都很鬆散。寫下來不是為了立刻變成完整文章，而是先讓它有一個可以被整理的位置。&lt;/p>
+&lt;h2 id="一篇筆記可以很短">一篇筆記可以很短&lt;/h2>
+&lt;p>只要有一個問題、一段觀察，或是一個之後想查的方向，就可以先成為一篇文章的開頭。&lt;/p></description></item><item><title>關於我想學會的事</title><link>https://kgipj.github.io/posts/things-i-want-to-learn/</link><pubDate>Mon, 19 Jan 2026 00:00:00 +0800</pubDate><guid>https://kgipj.github.io/posts/things-i-want-to-learn/</guid><description>&lt;p>想學的東西很多，先列下來。之後每完成一點，就可以回到這篇文章更新一次。&lt;/p>
+&lt;ul>
+&lt;li>把網站整理得更像自己的地方&lt;/li>
+&lt;li>持續寫文章&lt;/li>
+&lt;li>把作品慢慢放上來&lt;/li>
+&lt;/ul></description></item></channel></rss>

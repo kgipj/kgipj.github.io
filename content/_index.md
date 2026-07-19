@@ -2,5 +2,4 @@
 title: "Home"
 ---
 
-Welcome to Navi's Notes.
-
+Welcome to Navi's Blog.

@@ -1,4 +1,4 @@
-# Navi's Notes
+# Navi's Blog
 
 Hugo + Archie 版本的個人部落格。
 

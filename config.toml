@@ -1,6 +1,6 @@
 baseURL = "https://kgipj.github.io/"
 languageCode = "zh-tw"
-title = "Navi's Notes"
+title = "Navi's Blog"
 theme = "archie"
 copyright = "Navi © CC BY-NC-SA 4.0"
 

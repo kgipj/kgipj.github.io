@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>網站 on Navi's Blog</title><link>https://kgipj.github.io/tags/%E7%B6%B2%E7%AB%99/</link><description>Recent content in 網站 on Navi's Blog</description><generator>Hugo</generator><language>zh-tw</language><copyright>Navi © CC BY-NC-SA 4.0</copyright><lastBuildDate>Tue, 05 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://kgipj.github.io/tags/%E7%B6%B2%E7%AB%99/index.xml" rel="self" type="application/rss+xml"/><item><title>如何開始架一個乾淨的個人網站</title><link>https://kgipj.github.io/posts/building-a-clean-blog/</link><pubDate>Tue, 05 May 2026 00:00:00 +0800</pubDate><guid>https://kgipj.github.io/posts/building-a-clean-blog/</guid><description>&lt;p>我想要的網站不需要一開始就很複雜。先有首頁、文章列表、文章頁，就已經足夠開始寫東西。&lt;/p>
+&lt;h2 id="先把結構做小">先把結構做小&lt;/h2>
+&lt;p>一個清楚的個人網站，可以從幾個部分開始：首頁放文章列表，文章用 Markdown 管理，樣式交給主題處理。&lt;/p>
+&lt;h2 id="之後再慢慢升級">之後再慢慢升級&lt;/h2>
+&lt;p>當文章變多，再考慮分類、搜尋、數學公式或圖片整理。這樣每一步都知道自己為什麼需要新工具。&lt;/p></description></item></channel></rss>

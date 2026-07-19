@@ -1,10 +1,8 @@
 +++
-title = "About"
-date = "2026-05-06"
+title = "About Me"
+date = "2026-07-20T00:00:00+08:00"
 +++
 
-可以叫我 Novia。
+可以叫我 Novia
 
-就讀交作業大學，主修 Deadline，副修熬夜。
-
-是一株還不清楚方向的蒲公英。
+就讀交作業大學，主修 Deadline，輔系熬夜
